@@ -2,6 +2,8 @@
 
 #Webscrapping getting Data from websites in #Python# using the scrapy framework
 
+Markdown je odlehčený značkovací jazyk, který slouží pro úpravu prostého textu a jeho následný převod na formátovaný text publikovatelný na webu, zejména ve formátu HTML. Umožňuje pomocí jednoduchých formátovacích značek vyznačit v textu nadpisy a seznamy, doplnit odkazy, obrázky atd.
+
 As a full-stack developer, you are proficient in both front-end and back-end development, allowing you to work on all aspects of a web application or software project. Here's a breakdown of the key components and skills typically associated with being a full-stack developer:
 
 Front-end Development:
